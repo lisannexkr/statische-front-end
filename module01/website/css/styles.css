@@ -1,0 +1,13 @@
+body {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(241,156,187);
+}
+
+div {
+    margin: 40px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    background-color: rgb(239,222,205);
+}
