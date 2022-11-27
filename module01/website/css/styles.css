@@ -1,13 +1,121 @@
-body {
+/* Pagina 1 */
+
+.body1 {
     margin: 20px;
     padding: 20px;
-    background-color: rgb(241,156,187);
+    background-color: rgb(255,228,196);
 }
 
-div {
-    margin: 40px;
+.div1 {
+    margin: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 20px;
-    background-color: rgb(239,222,205);
+    background-color: rgb(173,216,230);
+}
+
+.hEen1 {
+    color: rgb(255, 255, 255);
+    background-color: rgb(191, 224, 234);
+    text-align: center;
+}
+
+.hTwee1 {
+    color: rgb(141, 185, 199);
+}
+
+.hDrie1 {
+    color: rgb(104, 147, 160);
+}
+
+.p1 {
+    color: darkgray;
+}
+
+a {
+    color: rgb(65,105,225);
+}
+
+a:hover {
+    color: rgb(255, 255, 255);
+}
+
+/* Pagina 2 */
+
+.body2 {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(255,228,196);
+}
+
+.div2 {
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    background-color: rgb(173,216,230);
+}
+
+.hEen2 {
+    color: rgb(255, 255, 255);
+    background-color: rgb(191, 224, 234);
+    text-align: center;
+}
+
+.hDrie2 {
+    color: rgb(104, 147, 160);
+}
+
+.p2 {
+    color: darkgray;
+}
+
+a {
+    color: rgb(65,105,225);
+}
+
+a:hover {
+    color: rgb(255, 255, 255);
+}
+
+/* Pagina 3 */
+
+.body3 {
+    margin: 20px;
+    padding: 20px;
+    background-color: rgb(255,228,196);
+}
+
+.div3 {
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    background-color: rgb(173,216,230);
+}
+
+.hEen3 {
+    color: rgb(255, 255, 255);
+    background-color: rgb(191, 224, 234);
+    text-align: center;
+}
+
+.hTwee3 {
+    color: rgb(141, 185, 199);
+}
+
+.hDrie3 {
+    color: rgb(104, 147, 160);
+}
+
+.p3 {
+    color: darkgray;
+}
+
+a {
+    color: rgb(65,105,225);
+}
+
+a:hover {
+    color: rgb(255, 255, 255);
 }
