@@ -1,0 +1,33 @@
+html{
+    background-color: gray;
+}
+
+body{
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    margin: 50px;
+    background-color: rgb(255, 255, 255);
+}
+
+h1 {
+    color: blue;
+}
+
+.first {
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+h2 {
+        color: red;
+}
+
+p {
+    font-weight: bold;
+  }
+
+.second{
+    background-color: rgb(183, 142, 40);
+}
